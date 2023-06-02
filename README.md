@@ -1,4 +1,4 @@
-Aula de JavaScript - Alura
+                    Aula de JavaScript - Alura
 
 abrir a pasta admin no vscode e 
 rodar o json server: 
